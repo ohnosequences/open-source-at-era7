@@ -1,7 +1,7 @@
 ---
 title:  "Era7 bionformatics"
 subtitle: "Presentación y Software Libre"
-author: "Eduardo Pareja-Tobes"
+author: "Eduardo Pareja-Tobes, CTO"
 date: "2016-05-06"
 ...
 
@@ -16,7 +16,7 @@ Fundada en **2006** en Granada, hacemos **análisis de datos**. Genómica, princ
 ### Claves
 
 - **Open source 100%** *Todo* lo que hacemos!
-- **Cloud computing** *AWS* cientos de servidores a diario,
+- **Cloud computing** *AWS* cientos de servidores a diario
 - **Investigación** *Bioinformática*, *Biología*, *Informática*.
 
 ## Equipo
