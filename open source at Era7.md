@@ -29,7 +29,7 @@ Fundada en **2006** en Granada, hacemos **análisis de datos**. Genómica, princ
 
 ## Dónde?
 
-![**Madrid** al lado del Prado y del Ritz, somos gente con clase.](images/madrid.png){ width=60% }
+![**Madrid** en el centro, al lado del Prado](images/madrid.png){ width=60% }
 
 ## Dónde?
 
