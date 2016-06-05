@@ -80,7 +80,7 @@ Plataforma para datos bioinformáticos/biológicos.
 Desde *2011*, para **todo**:
 
 > - **Análisis de datos** primeros en coordinar **crowdsourced data analysis** en github: [2011 *E. coli* outbreak](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis)
-> - **documentación** interna, [websites](https://github.com/bio4j/bio4j.github.com), [papers](https://github.com/ohnosequences/mg7/tree/master/docs/mg7-preprint), [slides](https://github.com)
+> - **documentación** interna, [websites](https://github.com/bio4j/bio4j.github.com), [papers](https://github.com/ohnosequences/mg7/tree/master/docs/mg7-preprint), [slides](https://github.com/ohnosequences/open-source-at-era7)
 > - Y, por supuesto, **código!** [era7bio](https://github.com/era7bio), [ohnosequences](https://github.com/ohnosequences), [bio4j](https://github.com/bio4j)
 
 ## Tecnologías, lenguajes, conocimiento
