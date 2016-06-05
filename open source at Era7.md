@@ -25,7 +25,7 @@ Fundada en **2006** en Granada, hacemos **análisis de datos**. Genómica, princ
 
 ## Dónde?
 
-![**Granada** En Puertal Real, el torreón con los pinchos encima del Deutsche Bank.](images/granada.jpg){ width=60% }
+![**Granada** En Puertal Real, el torreón encima del Deutsche Bank.](images/granada.jpg){ width=60% }
 
 ## Dónde?
 
@@ -37,7 +37,7 @@ Fundada en **2006** en Granada, hacemos **análisis de datos**. Genómica, princ
 
 ## Clientes
 
-![Centros de investigación, Empresas, Hospitales, ...](images/clients.jpg){ width=70% }
+![Centros de investigación, Empresas biotech, Hospitales, ...](images/clients.jpg){ width=70% }
 
 ## Investigación
 
