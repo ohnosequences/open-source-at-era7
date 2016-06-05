@@ -97,10 +97,14 @@ Hay matemáticos sueltos, así que mucha **programación funcional** y **teoría
 
 **Muchos** proyectos interesantes! Dos ejemplos:
 
+. . .
+
 > - type-safe generic Scala **graph data APIs**, en desarrollo desde hace dos años
 > - Diseño de un **graph database engine** ([**Idris**](http://www.idris-lang.org/) + Scala)
 
 ## Conclusiones
+
+. . .
 
 > - Es **posible** hacer todo **libre!**
 > - Hay que currar **mucho**
