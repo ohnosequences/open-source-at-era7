@@ -1,6 +1,6 @@
 ---
 title:  "Era7 bionformatics"
-subtitle: "Intro y Software Libre"
+subtitle: "Presentación y Software Libre"
 author: "Eduardo Pareja-Tobes"
 date: "2016-05-06"
 ...
