@@ -16,8 +16,8 @@ Fundada en **2006** en Granada, hacemos **análisis de datos**. Genómica, princ
 ### Claves
 
 - **Open source 100%** *Todo* lo que hacemos!
-- **Cloud computing** *AWS* cientos de servidores a diario
-- **Investigación** *Bioinformática*, *Biología*, *Informática*.
+- **Cloud computing** *AWS*, cientos de servidores a diario
+- **Investigación** Bioinformática, Biología, Informática
 
 ## Equipo
 
